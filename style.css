@@ -1,0 +1,18 @@
+button{
+    color: rgb(29, 12, 21);
+    background: #eb29ad;
+}
+.as{
+    color: #eb29ad;
+}
+.ac{
+    color: red;
+}
+
+:hover{
+    color: rebeccapurple;
+}
+
+.dgt{
+    text-align: center;
+}
